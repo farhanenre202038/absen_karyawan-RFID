@@ -12,10 +12,13 @@ Star apache pada xampp
 
 Akses pada browser dengan url
 
+Halaman-admin : 
 ```
-halaman-admin : http://localhost/absen_karyawan/index.php
+http://localhost/absen_karyawan/index.php
 ```
+Halaman-karyawan : 
 ```
-halaman-karyawan : http://localhost/absen_karyawan/mobile/index.php
+http://localhost/absen_karyawan/mobile/index.php
 ```
+
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://saweria.co/farhanenre202038)
