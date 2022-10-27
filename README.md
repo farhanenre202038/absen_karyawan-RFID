@@ -8,7 +8,7 @@ Pindahkan folder absen_karyawan ke dalam folder :
 ```
 C:\xampp\htdocs
 ```
-Star apache pada xampp
+Start apache pada xampp
 
 Akses pada browser dengan url
 
